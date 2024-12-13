@@ -6,7 +6,7 @@ public class PrintOrderDetails {
 	Scanner sc=new Scanner(System.in);
 	int orderId,quantity,totalCost;
 	String name;
-	System.out.println("enter orderId");
+	System.out.println("en orderId");
 	orderId=sc.nextInt();
 	System.out.println("enter item name");
 	name=sc.next();
